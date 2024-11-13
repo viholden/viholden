@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a Computer Science student at Loyola Marymou
 
 ### 🎓 Education
 - **Loyola Marymount University** – B.S. in Computer Science  
-   - **Honors**: Academic Merit (Arrupe Scholarship), Dean’s List
+   - **Honors**: Academic Merit (Arrupe Scholarship), Honors Program, Dean’s List
    - **Involvement**: NSBE Senator
 - **Google Project Management Certificate** – Completed in 2024
 
